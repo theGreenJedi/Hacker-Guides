@@ -1,5 +1,5 @@
-# Hacker-Guides
-A collection of pentest walkthroughs
+# Hacker-Guide
+A collection of pentest walkthroughs - Random stuff, some useful, some VERY useful
 
 SIFT Workstation Overview
 
